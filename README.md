@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xClune
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning web dev => html, css, js & react
+- 🌱 I’m currently learning full stack dev => (next.js and backend currently)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me aclune382@gmail.com
 
